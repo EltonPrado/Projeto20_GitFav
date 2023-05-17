@@ -37,7 +37,7 @@ informações básicas que o usuário deve seguir para usar o GitFav:
 
 Quer conferir o Git Fav? 
 
-[Visite o projeto online](https://eltonprado.github.io/Projeto20_GitFav/)
+[Visite o projeto online](https://gitfav-explorer.netlify.app/)
 
 <br>
 
