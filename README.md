@@ -37,7 +37,7 @@ informações básicas que o usuário deve seguir para usar o GitFav:
 
 Quer conferir o Git Fav? 
 
-[Visite o projeto online]()
+[Visite o projeto online](https://eltonprado.github.io/Projeto20_GitFav/)
 
 <br>
 
@@ -49,27 +49,24 @@ O intuito do projeto foi colocar em prática os conhecimentos acerca de:
 - HTML
 - CSS
   - variáveis
-  - grid-template-columns / grid-template-rows / grid-column / grid-auto-flow
-  - margin / padding
-  - position: relative / absolute
+  - position/ grid/ flex/ margin
   - align-self / justify-self / justify-content
-  - centralizar div com position/grid/flex/margin
   - ::before / :hover
-  - transform / rotate()
-  - responsividade / mobile first
 
 - JavaScript
+  - Assincronismo
+  - Promises
   - Classes
-  - Asynchronism com async await
-  - fetch API
-  - GitHub API
+  - heranças
   - localstorage
-  - try, catch and throw
+  - fetch()
+  - GitHub API
+  - Async functions
+  - try, catch e throw
 
 <br>
 
 <h2> Tecnologias </h2>
-
 
 Foi utilizado as seguintes tecnologias para desenvolver esse projeto:
 
